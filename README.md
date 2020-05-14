@@ -1,6 +1,6 @@
 
 
-![5 day coding challenge](https://c9c96d95-8026-4ac8-9aab-73d6757d0ed6.ws-eu01.gitpod.io/files/download/?id=38a23f22-3694-490e-907a-61f73f2cd9fa)
+![5 day coding challenge](https://codeinstitute.net/5-day-coding-challenge/)
 
 I have been awarded a certificate of completion in Code's Institute 5 Day Coding Challenge on 8 november 2019.
 
