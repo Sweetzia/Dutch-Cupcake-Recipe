@@ -1,6 +1,6 @@
 
 
-![5 day coding challenge](https://codeinstitute.net/5-day-coding-challenge/)
+![5 day coding challenge]()
 
 I have been awarded a certificate of completion in Code's Institute 5 Day Coding Challenge on 8 november 2019.
 
