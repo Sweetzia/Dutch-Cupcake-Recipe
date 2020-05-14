@@ -1,6 +1,6 @@
 
 
-![5 day coding challenge]()
+![5 day coding challenge](https://github.com/Sweetzia/Dutch-Cupcake-Recipe/blob/master/Images/5%20day%20coding%20challenge.png?raw=true)
 
 I have been awarded a certificate of completion in Code's Institute 5 Day Coding Challenge on 8 november 2019.
 
